@@ -1,0 +1,13 @@
+# auxuji-discordrelay plugin config
+[config]
+version = 1
+
+[discord]
+# Discord Bot API token
+apiToken = "null"
+
+# Discord Text Channel IDs to bridge
+channelIds = []
+
+# How long the plugin should wait for the Discord API in seconds (Default: 5)
+timeout = 5
